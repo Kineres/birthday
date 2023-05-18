@@ -70,7 +70,7 @@ body {
 
 .sticker {
     position: absolute;
-    bottom: 0;
+    bottom: -20px;
     transform: translateY(60%);
     content: "";
     height: 100px;
